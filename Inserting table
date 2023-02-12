@@ -1,0 +1,16 @@
+# Inserting Into Table
+
+```sql
+Insert into `CUSTOMER` (
+`ID`,
+`Name`,
+`Number`,
+`Email`,
+`Address`,
+) values (
+'1',
+'Ravi',
+'8598569',
+'ravirao@gmail.com',
+'Guntur'
+);
